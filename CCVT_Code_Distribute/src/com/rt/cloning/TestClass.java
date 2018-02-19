@@ -2,6 +2,7 @@ package com.rt.cloning;
 
 public class TestClass {
 //changes done
+	//learning how to clone
 	/**
 	 * @param args
 	 * @throws CloneNotSupportedException 
